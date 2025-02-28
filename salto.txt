@@ -1,0 +1,3 @@
+  Cojo impulso
+  Salto
+  Caigo
